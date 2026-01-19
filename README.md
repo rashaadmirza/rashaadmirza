@@ -14,7 +14,7 @@
 
 ### Hi, I’m Rashaad!
 
-I’m a Computer Science graduate student at Northeastern University with experience building end-to-end systems across frontend, backend, cloud infrastructure, data pipelines, and applied machine learning. I enjoy working on problems where correctness and real-world impact matter.
+I’m a Computer Science graduate student at Northeastern University with experience building end-to-end systems across frontend, backend, cloud infrastructure, and data pipelines. I enjoy working on problems where correctness and real-world impact matter.
 
 I’ve built and shipped production systems in healthcare, education, and social-impact domains, and I bring a strong product and human-centered perspective to engineering work while maintaining rigor and performance.
 
