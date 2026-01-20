@@ -28,7 +28,7 @@ I’ve built and shipped production systems in healthcare, education, and social
 ### My Skills
 
 **Languages & Frameworks**
-- Python, Java, C++, C, JavaScript, HTML, CSS, SQL, R
+- Python, Java, SQL, R, C++, C, JavaScript, HTML, CSS
 - React, Android, TensorFlow, PyTorch, scikit-learn, Pandas, NumPy
 
 **Tools & Technologies**
