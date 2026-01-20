@@ -14,7 +14,7 @@
 
 ### Hi, I’m Rashaad!
 
-I’m a Computer Science graduate student at Northeastern University with experience building end-to-end systems across frontend, backend, cloud infrastructure, and data pipelines. I enjoy working on problems where correctness and real-world impact matter.
+I’m a Computer Science graduate from Northeastern University with experience building end-to-end systems across frontend, backend, cloud infrastructure, and data pipelines. I enjoy working on problems where correctness and real-world impact matter.
 
 I’ve built and shipped production systems in healthcare, education, and social-impact domains, and I bring a strong product and human-centered perspective to engineering work while maintaining rigor and performance.
 
@@ -60,7 +60,7 @@ ICK Utah needed a way to manage their growing book collection and track lending 
 ### [ReMo](https://remo.app/)
 **Product Engineering & UX** | Figma
 
-Designed a book discovery platform for students in grades 4-12 that helps readers find books aligned with their interests while supporting educators in promoting independent reading. Focused on clear information architecture, intuitive navigation, and thoughtful interaction design to balance student engagement with classroom usability
+Designed a book discovery platform for students in grades 4-12 that helps readers find books aligned with their interests while supporting educators in promoting independent reading. Focused on clear information architecture, intuitive navigation, and thoughtful interaction design to balance student engagement with classroom usability.
 
 [Experience ReMo](https://www.figma.com/proto/Psx2uvPsS5onhYqupJdAf5/ReMo-MSBA?type=design&node-id=1604-786&t=EsllcmGzu0IJypSj-0&scaling=scale-down-width&page-id=1604%3A784&starting-point-node-id=1604%3A786)
 
@@ -111,10 +111,10 @@ Designed a meditation app featuring a heatmap, boosting community engagement and
 ### [Coredio Corp.](https://coredio-ai.com/)
 **Full-Stack Developer with UI/UX Design Co-op** *Jul 2024 – Dec 2024*
 
-- Led end-to-end design and development of 30+ production screens: collaborated with clinicians to identify workflow needs, created Figma design system through iterative prototyping, and implemented HIPAA-compliant React web and Android mobile applications for patient monitoring
-- Built a Python signal-processing tool achieving 100% accuracy for blood pressure detection from PPG data using statistical methods
-- Architected an Azure-based automated ETL pipeline ingesting 2M+ daily records from wearables and EHR systems, improving processing efficiency by 88%
-- Led literature review and applied ML experimentation for LVEDP cardiac function estimation, engineering predictive features from clinical time-series data and training models reaching 91% accuracy against clinical gold standards
+- Led end-to-end design and development of 30+ production screens for a healthcare wearable platform, translating clinician workflow needs into a Figma design system with high-fidelity prototypes and responsive React/Android patient monitoring applications
+- Engineered Python signal processing tool with 100% accuracy for blood pressure detection from PPG data using statistical methods
+-	Architected automated Azure ETL pipeline integrating 2M+ daily wearable data and EHR records into HIPAA-compliant relational database, increasing data processing efficiency by 88%
+- Led literature review and built ML workflow for LVEDP cardiac function estimation, engineering predictive features from clinical time-series data and training models that achieved 91% accuracy against cath‑lab gold standard
 
 ### Northeastern University
 **Coordinator of Custom Learning** *Aug 2024 – Dec 2025*
