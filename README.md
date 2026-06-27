@@ -12,11 +12,11 @@
 
 ---
 
-### Hi, I’m Rashaad!
+### Hi, I’m Rashaad 👋🏻
 
-I’m a Computer Science graduate from Northeastern University with experience building end-to-end systems across frontend, backend, cloud infrastructure, and data pipelines. I enjoy working on problems where correctness and real-world impact matter.
+Software Engineer focused on full-stack development, AI systems, and human-centered design.
 
-I’ve built and shipped production systems in healthcare, education, and social-impact domains, and I bring a strong product and human-centered perspective to engineering work while maintaining rigor and performance.
+I've shipped production systems in healthcare, education, and social impact, always balancing engineering rigor with a human-centered approach. With an MS in Computer Science from Northeastern University, I'm now focused on building AI-driven products.
 
 ### What I Focus On
 
@@ -25,19 +25,23 @@ I’ve built and shipped production systems in healthcare, education, and social
 - Data Engineering & Applied Machine Learning
 - Product Design & User-centered UX
 
-### My Skills
+### Currently
 
-**Languages & Frameworks**
-- Python, Java, SQL, R, C++, C, JavaScript, HTML, CSS
-- React, Android, TensorFlow, PyTorch, scikit-learn, Pandas, NumPy
+🔭  Building AI-driven products with knowledge graphs & semantic systems<br>
+🌱  Going deeper on production ML and cloud-native architecture<br>
+🔬  Exploring how conversational AI interfaces can be designed better
 
-**Tools & Technologies**
-- Azure, Firebase, PostgreSQL, SQLite, Room
-- Git, VS Code, Google Antigravity, Power BI, Tableau, Jira, Smartsheet
+### My Toolkit
 
-**Design & User Experience**
-- Figma, Wireframing, High-Fidelity Prototyping, Design Systems
-- User Research, Usability Testing, WCAG Accessibility, Interaction Design
+| # area | >> tech |
+|---|---|
+| **Build** | Python · Java · Kotlin · SQL · C++ · C · TypeScript · JavaScript · HTML · CSS · React · Node.js · REST APIs |
+| **AI & ML** | Agentic AI · RAG · Knowledge Graphs · MCP |
+| **Data** | ETL/ELT · Data Modeling · Schema Design · PostgreSQL · MySQL · MongoDB |
+| **Ship & Scale** | Azure · AWS · Docker · Kubernetes · CI/CD · Git/GitHub |
+| **Design** | Figma · Wireframes · High-Fidelity Prototypes · User Research · Interaction Design · Usability Testing · Accessibility |
+| **Analysis & BI** | Power BI · Tableau · Data Visualization · Business Process Analysis |
+
 
 ### Certifications
 [![Google UX Design](https://img.shields.io/badge/Google_UX_Design-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/share/1a93504d6ceff5c4012cf3a3af3602a9)
