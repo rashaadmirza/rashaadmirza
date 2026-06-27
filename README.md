@@ -18,13 +18,6 @@ Software Engineer focused on full-stack development, AI systems, and human-cente
 
 I've shipped production systems in healthcare, education, and social impact, always balancing engineering rigor with a human-centered approach. With an MS in Computer Science from Northeastern University, I'm now focused on building AI-driven products.
 
-### What I Focus On
-
-- Full-stack Software Engineering
-- Cloud-native Data Systems & Production Workflows
-- Data Engineering & Applied Machine Learning
-- Product Design & User-centered UX
-
 ### Currently
 
 🔭  Building AI-driven products with knowledge graphs & semantic systems<br>
