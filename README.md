@@ -30,7 +30,7 @@ I've shipped production systems in healthcare, education, and social impact, alw
 |---|---|
 | **Build** | Python · Java · Kotlin · SQL · C++ · C · TypeScript · JavaScript · HTML · CSS · React · Node.js · REST APIs |
 | **AI & ML** | Agentic AI · RAG · Knowledge Graphs · MCP |
-| **Data** | ETL/ELT · Data Modeling · Schema Design · PostgreSQL · MySQL · MongoDB |
+| **Data** | ETL/ELT · Data Modeling · Schema Design · TypeDB · PostgreSQL · MySQL · MongoDB |
 | **Ship & Scale** | Azure · AWS · Docker · Kubernetes · CI/CD · Git/GitHub |
 | **Design** | Figma · Wireframes · High-Fidelity Prototypes · User Research · Interaction Design · Usability Testing · Accessibility |
 | **Analysis & BI** | Power BI · Tableau · Data Visualization · Business Process Analysis |
